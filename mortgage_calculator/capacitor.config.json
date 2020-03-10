@@ -1,0 +1,8 @@
+{
+  "appId": "com.carremedia.mortgageCalculator",
+  "appName": "Mortgage Calculator",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
